@@ -1,0 +1,22 @@
+# Archivos de Gradle
+.gradle/
+build/
+captures/
+
+# Archivos de Android Studio
+.idea/
+*.iml
+local.properties
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos generados
+*.apk
+*.aab
+*.ap_
+*.dex
+
+# Logs
+*.log
